@@ -1,0 +1,2 @@
+ReallyhardPass@surely!100%==Pass
+mongodb+srv://petfoodadmin:<db_password>@cluster0.b7dkwsn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 ==> not so secret key ofc
